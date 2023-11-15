@@ -1,0 +1,26 @@
+{
+  "name": "Albert Riley",
+  "age": 43,
+  "address": {
+    "street": "Pive Drive",
+    "city": "Ikanahna",
+    "state": "MT",
+    "zip": "80041"
+  },
+  "contact": {
+    "phone": "(809) 642-2482",
+    "servicePhone": "800468754"
+  },
+  "birthday": "1998-10-08T14:35:34.486Z",
+  "ip": "9.194.220.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Becomwak fu hocvet loas go iculap cotemuce ivju cikso ozmunuro opa pol foc cup esreh natmir wun ra. Tanuj honumu unehi emo ra anwos ajbona cipe ga gawar kifure kor ivini finvo ejo bi itewup nicigge. Evo nof vikoh ejip valpi kucen korne ir bici wifletkig zu on. Vu faejlup bu ipcefari dewinru guw gofalod wa kolilo femfijji he buvdehali oc us wuzopfuj zal. Upja we ujajo hiukawa misjag givtugu jul acwer se neoc wusbiav posmoz licib fip cikisese. Vig maztuoj zozowmot ov faj dafcis metaru tocdabned mokun doeho tivega owno. Usdiddib ji wipulfu topakoz iwuekkid cole sun umaico wulif ga coh go facilme niv.",
+    "bio": "La una ol cucuwit kige tezmaw emojut ipefub fi ujjug onakusap disopoij se. Dicar mufuno hofivu kofwucwa gephino ridubiti duzhillu ezusu ke nipju lersafo katol nobocsa. Cud li asohih iv lebjit duf ofavi mavbo jazac waghaj zowuis wabog. Tazub wores ma ozwum la itaomac cocas nepaj ig ti lic zo hurkuh irebi dohikvej."
+  },
+  "apiKey": "cfaa0fae0446883d093c70a68ad6dd00cdeac8de13315a96733608144e82dee4",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
