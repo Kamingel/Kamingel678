@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Newman",
+  "age": 52,
+  "address": {
+    "street": "Pino Junction",
+    "city": "Nibiba",
+    "state": "AL",
+    "zip": "66424"
+  },
+  "contact": {
+    "phone": "(349) 438-5546",
+    "servicePhone": "800496415"
+  },
+  "birthday": "1992-05-20T09:10:19.506Z",
+  "ip": "105.247.205.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Kolre jo alcadhi sarsale jap idjoup wizis veb rubal bu zujko womama igu jumajol cuh rino huju ehpeh. Uvetuvu na nivjefiz rutgokin pekan mac fiflibo nu jicobewa huc puvar musum. Dilkucko uco butija sacevi edmebe vewaf kisdijke atpi lurmerul job vafug kupigiw welzag.",
+    "bio": "Duise alokefive za pipdu vifuv pal dosew cevu sa ci rugirco percip fu ficugoji judowib haluc lerehazur. Bel hon afejotes efihikut lawneko pocmer vigelud ewfiope ritji ci genabale nen judtug ah. Dadikaj mow doem himdih urohudof we car fivo ras ofedosgev sop bit izhono supuci bu jar."
+  },
+  "apiKey": "023726dc13fd931044c2179bfdc435c649ddbe2132c6352d925419894e698f48",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
