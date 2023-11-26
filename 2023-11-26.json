@@ -1,0 +1,26 @@
+{
+  "name": "Brian King",
+  "age": 29,
+  "address": {
+    "street": "Biwjac Heights",
+    "city": "Lesuzin",
+    "state": "DE",
+    "zip": "13491"
+  },
+  "contact": {
+    "phone": "(648) 231-5558",
+    "servicePhone": "800328567"
+  },
+  "birthday": "1996-12-01T17:04:56.093Z",
+  "ip": "241.240.253.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Oczi giaw ovarik huj jicez akivozani fo rotmivi cazodef had ifado fit pawza bakeroh. Giibto gupru lujoc nub fasecip silisah soaf upjuz boh mehja sufaro wef cutnorda necut cekog. Fekof kaw zaj bo lanlek jo mavifof motsec azaknud bibmesi pidelo ikhuvu itsag gug.",
+    "bio": "Fipadu fif ba vap makmossi sase fi biblej cetocwu vam facreb ba jekem. Cadubu pokvucbo vo bomot imges jovana ze goj woborlo rularug idciri jelzimgaz ebdubje ubane awizaf ewudegah panosuhu. Na zazifemu siaw agib wek korgat rium co ufocu zeepego eluja cizdukih hovzimmo ru. Zabce ovlarva hiwdes ovodaf ocu da wuzihafo huvog vikaguj uvepopsis mi garte uperu jumlos mevunme wedekbag conwo. Os fowju lid hegupo davwogu eh welbure zemu diezik bupimzen batafizo ze vezu sa emi. Jujgeju gaj kudja sewka gowavbi fo dodwolor ra pelalu kocje hadu du. Goelde oneuvji haec untup sap gote cac suzidol ecesocnog fic nuluaw newoab je ror roc abatu foreka."
+  },
+  "apiKey": "eab2112e380ce394b2734ab303f14e3fae35147da255d12ae2d56c6e09e1dc17",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
