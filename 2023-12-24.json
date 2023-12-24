@@ -1,0 +1,26 @@
+{
+  "name": "Cory Munoz",
+  "age": 30,
+  "address": {
+    "street": "Kamgis Pike",
+    "city": "Belagozu",
+    "state": "LA",
+    "zip": "69807"
+  },
+  "contact": {
+    "phone": "(737) 922-5357",
+    "servicePhone": "800236219"
+  },
+  "birthday": "1999-01-21T08:34:50.958Z",
+  "ip": "120.208.166.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Biz felun wupcug pene teheb uduol pes gowad wik ere ila beekejim zoitpil. Vobovi fowjeboh di janucvu tunfuep wifkorhu mobek ge az fuvwe us ehoalofom ive higin. Favewba atuhed faf bohar likla bo novo bi fa vizcew wah iluga bom pupnuh vumiffog manho hura tola. Gasem ju purik jesoos onipe panan vofda ti fu sotdobis hegu leah pe buk naj.",
+    "bio": "Moj baafbek mizpivik rusa wap rewpifo ta gimep ridueg pithabe rakossek cor juhce rufefem. Kummukve awuimi we pol uzifagni taoja wemumpab iguojo hepi hop atawakaf ner wopewkef nikbon giwadav biwocran juico eri. Za jovim lousi fe ehapo neneno leko wivesu mukotis mawi awoucezaw voes mokheabu mi evo muflu."
+  },
+  "apiKey": "5a54da4bb116cbced71d0965ba204cea013821b172f96eaa2a6572ffefb3ae22",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
