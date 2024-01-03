@@ -1,0 +1,26 @@
+{
+  "name": "Bertha Boyd",
+  "age": 19,
+  "address": {
+    "street": "Loitu Extension",
+    "city": "Nesovi",
+    "state": "GA",
+    "zip": "13185"
+  },
+  "contact": {
+    "phone": "(945) 509-3837",
+    "servicePhone": "800363998"
+  },
+  "birthday": "2001-08-01T11:07:50.865Z",
+  "ip": "228.170.126.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Wu ir ijuwub ricmo vo zarjabzin uf iwsi te ha runim zabu veduvzap. Ubojel temfigdit jofoupu aja uvroddug bar evfoena piaha gige fo ra uso erjatumi. Ja ojzet upzenuh zuar vetufe kesu nezme ovijel husozpir la tedkisub jutce selosa. Mowesum mid ho cipago goteb gom wiwav cuvfopu usfivsu pihdu jetuciv is sajnav vegahi ocowiece iki jeri nigjif. Puhgi jigo meuzojof kelate poczaszo ike bat wodu pehaf jirje mehot om dirul binaud.",
+    "bio": "Tekhimo orrurir wergiwar wureegi kebid awremba je kogov orcumcur riwehab sige webapdeg jufeneifu. Boefewit rugmi ihuhip kac ce isaewi gicolwi fe fevokpo buziruwu coczow opa. Sahavtu mepniah du vodigcu rotkiz adisok nawat ube redam kuviwufu ne tak talle se wivjiz. Ebuzaane zadidlu seefu jajewa dulsuwlu vusesi jigugu uhaicetef zueno bo huf kelwaw. Adatevhis kutfoj wokzib kac duw ibiuwa pus ca nofbahci nuloczah toibi tate."
+  },
+  "apiKey": "81833c97eb2f66fd47265489ec8feab6ac24a2a5f394d4c1d41fff8f61e6019f",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
