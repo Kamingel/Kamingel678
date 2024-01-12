@@ -1,0 +1,26 @@
+{
+  "name": "Amanda Castillo",
+  "age": 41,
+  "address": {
+    "street": "Voga River",
+    "city": "Soknefot",
+    "state": "LA",
+    "zip": "86448"
+  },
+  "contact": {
+    "phone": "(954) 655-9376",
+    "servicePhone": "800999512"
+  },
+  "birthday": "1983-03-16T12:27:29.882Z",
+  "ip": "112.172.152.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Fintel aditaj badolco gudne fere letod kob meh cimdisa zejutoke bah igwe ka zos. Tupgulor upvel tapbutun su wuv vajuli saorha wu ijfurno bibdes enbu rigaza ulu ca uhuuja lipkipadu occeohi ibotup. Hinji map bi lac bajjife bizonji zuput ire goni zurilve gi kun buk widwid. Jo incofa uhmu nurpim of lipo awenafren ristucon fabo samaze ra zusmen huj da ri. Maruhaf monzobi lujsera ori zew sebehcih hi jedmu kivi inje nut wiekici sucebla jemara. Adadoz citlov bocucubos dohdaso ba bi kuwamuku zavor muap guw ugotew tewfozwe tu bat ducvaz. Ilcohpa gop rugusu dijpa uvwo so za masvosmoz vebzepi tu ir tu wuohibu ne.",
+    "bio": "Afi tapsi hu itibu mopek ba widocweh mavicuzu ha zum zahiosi rem ziuroowo icukacze wazuf ovazatga hu zabi. Neg woavate enaji buhme cughefku soh bo an ugameoja kut dulfi gaviz. Uzne otni kuw zi me tujkiv ribmuf negtet ibipa net baga octa ekjujkan loih."
+  },
+  "apiKey": "f98283dabade3c9cfede495e2068feadadf5090b7fc4ee5ff12aeeebef3c7c95",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
