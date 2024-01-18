@@ -1,0 +1,26 @@
+{
+  "name": "Harvey Park",
+  "age": 26,
+  "address": {
+    "street": "Wuri Street",
+    "city": "Asilidsis",
+    "state": "DC",
+    "zip": "55059"
+  },
+  "contact": {
+    "phone": "(586) 608-8607",
+    "servicePhone": "800769925"
+  },
+  "birthday": "1991-06-24T08:45:51.103Z",
+  "ip": "16.155.16.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Guz be oshan inululu lidona zudise ilezevi wi tododumon lalmid wuok riejcep. Uhuomobi dimgad kebom su jajfapir gub pudenu ruki oju icira eje kaodi he oniwokdok kowa. Fe bavuef aldibuw cu os emzaguvi dugitka ku nebducub ra zutwad pitkan ziacuho wa te. Fud ipijoj ca rud li fujdu giko hinkor huemfo gurruc negusa fi dija mijof otlamun pi momhur jico. Rofuhes bum do vonu jibpo sebeh ipo oc waonace zunzincem me zoofi onadol did. Viunri simvakek ote epimet vik ze zejovawa numimod ber to nebobuc hog an nun bodvilzej vuga fovaj.",
+    "bio": "Hi tejho zarhi hemimu heg boj vuzjefzul pemkoev bav epgulow joscefepu toj oh rok alohlep halijwef. Jo woethas satdogneh war bu fopah dibegwak eju mo hahcotul bowivfo hu suplis jeb jo degpat epoliulo go. Zazte bo movwore apu tosenrak nazavu gog fouflu lu masa fojlafodo duci mag. Lenocro lunga mezgeh taham afge boj hu pigof lihwe zafaji li gotjouba bi moge banlegmib ahijezoj."
+  },
+  "apiKey": "4bbb8381fb33943545c662d7418c4e7622d89e4ca3ed0bb823e761166a626763",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
