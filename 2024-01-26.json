@@ -1,0 +1,26 @@
+{
+  "name": "Eric Parker",
+  "age": 59,
+  "address": {
+    "street": "Ovuzut Lane",
+    "city": "Dipsurud",
+    "state": "MI",
+    "zip": "73895"
+  },
+  "contact": {
+    "phone": "(886) 239-1733",
+    "servicePhone": "800127117"
+  },
+  "birthday": "1988-10-18T21:58:37.791Z",
+  "ip": "155.210.70.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Ricnu acsevlem sevkajrak elewebow icu ozisu dih woha nubsein hosna juspak iwofu iceejmi. Vubce ehe do ci oseveb roszoclok topouvo edzah delugku gacti onihak wom boza necapozi hom. Civra bod muszarvom ahzoluv mu malow vusig nagaz eho be najpici jebrofah. De welusu gujruocu ip nitdojcuf acju duv cugiwhuz odapugzur wu ka bunoh jes jimifizul ajnat zegu aci ejsavto.",
+    "bio": "Wosle fanwoggit geg koj tablis zi gicbiwel faw fudolubi kujtop ih tu benluweg. Kow pek geccope judazroj rofli fog ze mafefovu uhhanu diotiaki wi cohiw ka. Iba vav orip valcu padukdis domka furak fenen hisaw pejivwuz iwufebkis sucomuf. Cehopoc elva ju vi gazojuc tunban wumgo pos jekuose zo kertepdeb gagup ov mucuf pomejahi beh onawada. Buegbuz wizhun retmi tacbahjiw kalzel emofuwem da abaradbam pirum owzibug daju nasbom avdasfov pisic lumullih wajwes izri gevgur."
+  },
+  "apiKey": "9179a1c4bb54dbbe545eaa64845b6b8f5b37db28aa14b32f194981e0ab4f5ed8",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
