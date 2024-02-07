@@ -1,0 +1,26 @@
+{
+  "name": "Rodney Martinez",
+  "age": 34,
+  "address": {
+    "street": "Ufpiz Terrace",
+    "city": "Nakbuwpu",
+    "state": "VT",
+    "zip": "19803"
+  },
+  "contact": {
+    "phone": "(940) 712-5204",
+    "servicePhone": "800863761"
+  },
+  "birthday": "1974-04-21T21:28:52.603Z",
+  "ip": "125.87.156.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Bukeggu laiki moigodu vo ugo peksu ku pev giiga ojafe huzroruwa neti zoakunu uruwioje one lockolbo. Ogde coazsap laarepe sozibila hapopi avumiwit nenpo la roc zevohe casgonsam wilar admurgop noevu. Ekiidaduf wuzrusic ejukupa uh olvoka wembeh ig icucud arluv jif puzkoco ruja cup nedfolkiv.",
+    "bio": "Ga olmenriz moluja lomwaczuc ro tanoad tuukvor refruh afwopbol nokmeaka wen cet zoskiw livcuv. Ikizipogi poojode vaj conju tuasaer bama petkipum jevbik afutok lewuto lora ten hotirfuv judgalob to opiva tudpa ezitap. Vel epokor haf hele icaej rugemwo rutivuhe kocu rafu sisoci ew sizi fidhafad."
+  },
+  "apiKey": "604ffe96b56f5482b7dfe20e6d075e5f85cfcf69ec18d710c43f15d8a0bb57b4",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
