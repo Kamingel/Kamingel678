@@ -1,0 +1,26 @@
+{
+  "name": "Juan Pena",
+  "age": 21,
+  "address": {
+    "street": "Gorako Loop",
+    "city": "Nijevtu",
+    "state": "RI",
+    "zip": "86953"
+  },
+  "contact": {
+    "phone": "(361) 670-6757",
+    "servicePhone": "800985275"
+  },
+  "birthday": "2001-12-03T04:52:17.387Z",
+  "ip": "177.99.162.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Naeg ehduw kur likhiumo vo kig tiefa ze itivejwub mimzoswe juckeewa vief uhhim si hu. Wezevne onipe mawig wuiluapa be baso buripcah sapudu sijon huktec jaapa zehpimkad. Oh fotowa togog gas fa ime uwifacav buzku zagaolo afo kaweh vowi uloomeil tevena.",
+    "bio": "Ecwaj afolicpa mifuosi bitdo bi tofikosi tengor mo po nalnuc li habeget walofe ru. Wu tejuwa agodoko tufzol fahu jatic isa cuchepav giba gorno unrog wo asewac lane suba cisfido coni ohooboce. Nokebko woga kovkovu cu varwu kub ab humaj siuvapid diwusaju reideg rewi galrirum. Anagok fu oroebo ihu bahjit ebeoh hurci pusebop ojihu fe mesehe favjubda uszu lukupi te zucigber juvudej fizfap. Ka sakhig sunhid uw kigsusi wik lecir uduramdi hupazus elo tewvow re hil ij wepu joj il. Bifo lifhivij cogwu bo lubti paltusji minul miawouno supgijbe vanlef gaescem ibdu miup ubwop. Calertu gugupbov gavemu motidez uhla manen puhec ico robiti biwif vaz icvol rudito gefkup cadakzuw bu lonvuvjik kulatu."
+  },
+  "apiKey": "49b156dca8aec55fcb3182659eb9e9cb8b4efe0819275e62a20cf78c1e975444",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
