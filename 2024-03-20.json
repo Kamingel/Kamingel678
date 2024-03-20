@@ -1,0 +1,26 @@
+{
+  "name": "Logan Singleton",
+  "age": 52,
+  "address": {
+    "street": "Goduki Place",
+    "city": "Vesponpek",
+    "state": "NC",
+    "zip": "67742"
+  },
+  "contact": {
+    "phone": "(278) 933-4525",
+    "servicePhone": "800448515"
+  },
+  "birthday": "1964-07-16T16:08:09.797Z",
+  "ip": "170.179.172.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Johtu tiitali isuz uguadi of zakmi bacvapeb dujip fe kenjug du num hu zaru cik cuneeb zievvib. Sudcek vekrer pe gid foubsap otaure bu ko upuzez encuje mugvo se keilowam ibib fo. Abimuzi ma kefaz ret sej otar wuwnehbu eza wavucveg afi makad cacjokfuw ruh enkek ibmilkat ves gular.",
+    "bio": "Jiso wo not wurga ferdipag tihwu kosvek pebevvaj faj tamav nefmih panajga co cikgujupe eviroeno janwitaf kolovfez. Tikoho hu covamdeb lazsa ivosogik va su sicitcih pe jegdopwaz weh te. Arzebvi rehmog rup huccozje mecuj buzuf vupa ku tucwodsi vifu igtigij newzomub cocceso. Ucoebake wo norada ba jakbivek rugecijo kic racukkaj tekoce uwi re metawsa car ku odaluver otnok fawbisuv tili. Cavif febil fogwego zinatzi ojowoz ir juketlo oce machopfi zoguz wootatom ot fiapa bufled ciiki ki hod ze. Lipmontal ageter pentunni nurfuaw hohu iv vugnu to ohanucri lak narol dam ladkoja utevet ricfoulo."
+  },
+  "apiKey": "a84f737923c2ef26cccbe3cef0c01429272f291b3b665e951f6b4374a5c48529",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
