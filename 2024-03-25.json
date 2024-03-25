@@ -1,0 +1,26 @@
+{
+  "name": "Duane Tucker",
+  "age": 40,
+  "address": {
+    "street": "Hodhul Road",
+    "city": "Fiisoco",
+    "state": "MI",
+    "zip": "24217"
+  },
+  "contact": {
+    "phone": "(724) 731-8963",
+    "servicePhone": "800639522"
+  },
+  "birthday": "1995-06-25T07:01:40.697Z",
+  "ip": "113.164.228.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Ge ucibe vejmo pu val ca behlaos ah cafi bakcoh zazek mabuzpa erdevik ca cifga zurcire. Ga uv asazabi weh eve iwlu kimhewva duza munpecdoh fawsup akumeoh zuzzedbed jadcis voro vuwutudo boehmop wige tulu. Poloz rew su iseej le tozure bivuce dagac josaw ujolibze wetjipej aspih du we.",
+    "bio": "Pimi aknoobi vopo vi ka wablopa so hab amubkan loj iske tiriho er ci. Iga rij foahehe elejoc ro jeneraba hacmarpu de fullivi vuwkamup revez fow. Ja dafup lisunomi ze jistu risapej wak abaubuli fupe dabidoze filaawi ova ba anese vobek hug zof enovek."
+  },
+  "apiKey": "d588e011e92bdf50fc1e43ee747b5d2c5cb2ae811bdb120b1a76e1b1e47ab994",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
