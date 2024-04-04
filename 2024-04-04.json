@@ -1,0 +1,26 @@
+{
+  "name": "Lee Snyder",
+  "age": 22,
+  "address": {
+    "street": "Koik View",
+    "city": "Jacdawa",
+    "state": "CA",
+    "zip": "57633"
+  },
+  "contact": {
+    "phone": "(928) 239-4128",
+    "servicePhone": "800182862"
+  },
+  "birthday": "1984-08-18T05:00:17.192Z",
+  "ip": "5.230.240.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Wafkohi fu vaavood arukoga be gedizoj suroc nor cab tabwi neb okugo. Et hilpozu tikeg sopik sed bit umezopzan fihugela vas nu kusho fahfuj ku okiliz dezseka tifasus ur. Ik ivtom ra der mawwokwug az vedir jawnaok fugrimut zaap oh ipka buv.",
+    "bio": "Pieha jeez iwon urzav fare boedmu gusoji udhebroc ifuvewe donelhat uja wim titaes. Bir akzaebe mav pos segnujos roepesol ruulu hil pu lozmatu banla nig nitob kosgos. Mikrafu nubfig tizofaaf riljonocu fimfa bowereak ez gibpas gog tergi bikrewluw janastu. Cajijozig joge numuk zoaliha jej tuhgic gi fihza tun jiita kahafi mov vohzergam lidzini nigirbo zodjowhid."
+  },
+  "apiKey": "03c6d4093b907d689cfe91b1d894861ad0d46a9b05629b90b0ec896c46a0528c",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
